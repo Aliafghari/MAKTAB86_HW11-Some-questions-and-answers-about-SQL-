@@ -1,7 +1,7 @@
 # MAKTAB86_HW11
 
 
-## section1
+## section_1
 
 *num1-1*
 ![num 1-1](https://user-images.githubusercontent.com/123637062/217037654-149e22bb-df4e-4671-9a49-702528973ef6.jpg)
@@ -16,7 +16,7 @@
 ![num 1-4](https://user-images.githubusercontent.com/123637062/217038994-bef7c263-1037-486b-bb85-9ca25108ca5a.jpg)
 ---
 ---
-## section2
+## section_2
 
 *num2-1*
 ![num 2-1](https://user-images.githubusercontent.com/123637062/217039521-a8bdfd83-e3b5-4dbd-abdd-856ce6bfaed2.jpg)
@@ -28,7 +28,7 @@
 ![num 2-3](https://user-images.githubusercontent.com/123637062/217039576-c8ddc631-9087-4c6a-8261-948bfc4e34f2.jpg)
 ---
 ---
-## **section3**
+## section_3
 
 *num3-1*
 ![num 3-1](https://user-images.githubusercontent.com/123637062/217040068-6ca772b6-d5af-4159-8dfe-501fa45ae733.jpg)
@@ -46,7 +46,7 @@
 ![num 3-5](https://user-images.githubusercontent.com/123637062/217040186-07c39592-775e-4755-9463-6858cc49d3f2.jpg)
 ---
 ---
-## section4
+## section_4
 
 *num4-1*
 ![num 4-1](https://user-images.githubusercontent.com/123637062/217041134-f97aefa1-4f52-43dc-bc77-63c689d394a0.jpg)

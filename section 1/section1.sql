@@ -9,7 +9,7 @@ Revising the Select Query 2
 */
 
 SELECT name FROM city WHERE countrycode = "USA" AND population > 120000;
--- Another way: SELECT NAME FROM CITY WHERE population > 120000 AND CountryCode ="USA";
+-- ANOTHER way: SELECT NAME FROM CITY WHERE population > 120000 AND CountryCode ="USA";
 
 
 /*
